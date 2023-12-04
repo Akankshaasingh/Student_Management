@@ -33,3 +33,5 @@ The application allows users to perform operations such as adding students, dele
 **Important Note:**
 ->Ensure that the MySQL JDBC driver is in the classpath.
             (MySQL JDBC Driver: https://dev.mysql.com/downloads/connector/j/)
+Author
+[Akanksha]
